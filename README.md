@@ -7,6 +7,7 @@ My streak and submissions on leetcode thanks to leethub
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/AugustRaph/Leetcode-Sessions/tree/master/2262-solving-questions-with-brainpower) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AugustRaph/Leetcode-Sessions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Dynamic Programming
 |  |
 | ------- |
