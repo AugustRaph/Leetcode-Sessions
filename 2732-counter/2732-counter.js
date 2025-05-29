@@ -15,4 +15,8 @@ var createCounter = function(n) {
  * counter() // 10
  * counter() // 11
  * counter() // 12
+another solution
+ var createCounter = function(n) {
+    return ()=> n++
+};
  */
