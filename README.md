@@ -6,6 +6,7 @@ My streak and submissions on leetcode thanks to leethub
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/AugustRaph/Leetcode-Sessions/tree/master/0135-candy) |
 | [2262-solving-questions-with-brainpower](https://github.com/AugustRaph/Leetcode-Sessions/tree/master/2262-solving-questions-with-brainpower) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AugustRaph/Leetcode-Sessions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AugustRaph/Leetcode-Sessions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -25,4 +26,8 @@ My streak and submissions on leetcode thanks to leethub
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/AugustRaph/Leetcode-Sessions/tree/master/3201-distribute-candies-among-children-ii) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/AugustRaph/Leetcode-Sessions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
